@@ -1,0 +1,8 @@
+[meta]
+name = "TMUF Speedometer"
+author = "JailMan"
+category = "Race"
+version = "1.2.1"
+
+[script]
+dependencies = [ "VehicleState" ]
